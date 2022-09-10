@@ -10,8 +10,8 @@ import imagem4 from "./images/imagem4.jpg";
 function App() {
   return (
     <>
-    <div className='nomePrincipal'>
-      <h1>CAFÉ DO DRAGÃO</h1>
+    <div >
+      <h1 className='nomePrincipal'>CAFÉ DO POÇO</h1>
     </div>
       <div className="wrapper">
 
